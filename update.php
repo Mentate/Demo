@@ -1,3 +1,4 @@
+//This file updates contact account information
 <?php
 session_start();
 if(isset($_SESSION['userID'])){
