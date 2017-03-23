@@ -1,5 +1,5 @@
 //this is the main account page that users see after they log in
-
+//Josiah Carpenter
 <?php
 session_start();
 if(isset($_SESSION['userID'])){
